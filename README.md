@@ -30,6 +30,10 @@ node vectron.js
 
 This project includes a small testing script at the end of the `vectron.js` file. This script creates a new Blockchain (vectron), creates and processes some transactions, and then checks the balance of the 'z-wallet' address after the mining process.
 
+##Author
+
+[Zane Pearton](https://www.linkedin.com/in/zane-pearton/)
+
 ## License
 
 This project is open-sourced under the [MIT license](http://opensource.org/licenses/MIT).
