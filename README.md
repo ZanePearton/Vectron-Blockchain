@@ -1,4 +1,4 @@
-# vectron: A Simple JavaScript Blockchain Implementation
+# Vectron: A Simple JavaScript Blockchain Implementation
 
 This project is a simple implementation of a Blockchain in JavaScript. It includes all the basic functionalities of a blockchain system, such as creating transactions, mining new blocks, and validating the blockchain.
 
